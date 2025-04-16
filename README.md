@@ -15,6 +15,11 @@ dart와 flutter을 사용해서 만들었으며 Androud studio를 통해서 돌�
 그 후에 클라이언트를 키면 되는데 (Androud studio에서)
 서버와 클라이언트는 자동으로 연결된다.
 
-데모영상과 최종영상이 있다.
+db, main.dart, handlers는 서버용 flutter_application1의 lib에 들어있던 것들이다. 
+그냥 lib은 클라이언트용 flutter_application2의 lib을 통째로 가져왔다. 
 
-보존용 코드와 영상, 그리고 자료.
+기본적으로 vscode의 dart/flutter의 기본 프로젝트를 기반으로, lib과 main.dart만 주로 수정했다.
+그외의 화면이나 사진등은 git에 따로 게시하지않았다.
+
+코드,영상,자료의 보존용이다.
+데모영상과 최종영상이 있다. 이를 보면 이해하기 쉽다.
